@@ -2,7 +2,6 @@ title = "I'm Peter Indiola"
 author = "Peter Indiola"
 description = "Experiment. Fail. Learn. Repeat."
 profilePicture = "images/profile.jpeg"
-googleAnalytics = "UA-78775804-1"
 
 [[socialIcons]]
 icon = "fab fa-github"
