@@ -2,3 +2,17 @@ baseURL = "https://peterindiola.com/"
 languageCode = "en-us"
 theme = "anatole"
 googleAnalytics = "UA-78775804-1"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 200
+  identifier = "about"
+  url = "/about/"
